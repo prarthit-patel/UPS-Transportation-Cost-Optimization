@@ -23,7 +23,7 @@ This project analyzes logistics transportation costs to identify optimization op
 - Carrier C has a slightly higher average cost due to higher base rates
 
 ## Visualizations
-![Average Cost Chart](Screenshots/avg_transport_cost_by_zone.png)
+![Average Cost Chart](Screenshots/Avg_transport_cost_by_zone.png)
 
 ## SQL Samples
 See the `SQL Queries` folder for analysis scripts.
